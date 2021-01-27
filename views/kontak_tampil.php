@@ -3,26 +3,24 @@
         <div class="col-xs-12">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h3 class="panel-title"><span class="fa fa-user-plus"></span> About</h3>
+                    <h3 class="panel-title"><span class="fa fa-user-plus"></span> Kontak</h3>
                 </div>
                 <div class="panel-body">
                     <table id="dtskripsi" class="table table-bordered table-striped table-hover">
                         <thead>
-                            <p align="center"><img src="img/logo.png.png"></img></p>
-                            <label class="col-sm-12 control-label"><center><strong>SISTEM INFORMASI JADWAL SIDANG<br> KANTOR DPRD KAB ASAHAN</strong></center></label>
+                            <label class="col-sm-12 control-label"><center><strong>DPRD KABUPATEN ASAHAN</strong></center></label>
+                            <p align="center">
+                              Kisaran Naga, Kec.Kisaran Tim., Kabupaten Asahan Sumatera Utara 21216
+                            </p>
                         </thead>
                         <tbody>
                           <div class="col-sm-2" align="center">
 
                           </div>
                           <div class="col-sm-8" align="center">
-                            <br> <b>
-                            NAMA KELOMPOK 
-                             <br> INTAN NIARTINI ALNABE : 17220015
-                            <br> LATIFA                 : 17220020
-                             <br>SUTINI                 : 17220035
-                            <br><br><br>
-                          </b>
+                            <br>
+                            Website : asahankab.go.id<br>
+                            <br>
                           </div>
                           <div class="col-sm-2" align="center">
                           </div>
